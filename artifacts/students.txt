@@ -1,0 +1,6 @@
+John 60
+Alice 90
+Alex 70
+Tom 80
+Bob 80
+David 100
